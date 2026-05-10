@@ -1,16 +1,132 @@
-<h1 align="center">Hi 👋, I'm Jatinder Singh</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<div align="center">
 
-# 💫 About Me:
-🔭 I’m currently working on the Truck yard portal<br>👨‍💻 All of my projects are available at https://jatinder.malwaland.in/<br>📫 How to reach me: jatindersandhuinfo@gmail.com
+<img src="https://jatinder.malwaland.in/jatindersandhu.png" width="120" style="border-radius: 50%;" alt="Jatinder Sandhu"/>
 
+# Hi, I'm Jatinder Sandhu 👋
+### Full-Stack Developer · 5+ Years Experience
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jatindersandhuinfo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jatindersandhuinfo@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/8dhtYRJ5) 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-jatinder.malwaland.in-0a66c2?style=for-the-badge)](https://jatinder.malwaland.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jatindersandhuinfo/)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:jatindersandhuinfo@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/9888360667)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jatindersandhuinfo&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jatindersandhuinfo&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jatindersandhuinfo&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=jatindersandhuinfo&color=0a66c2&style=flat-square)
+![Freelance](https://img.shields.io/badge/Freelance-Available_✅-brightgreen?style=flat-square)
+![Location](https://img.shields.io/badge/📍-Bathinda,_Punjab,_India-lightgrey?style=flat-square)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+> Building scalable, high-performance web apps with clean code and solid architecture.
+
+I'm a **Full-Stack Developer** with **5+ years** of experience delivering production-ready web applications for clients across **Canada, India, and the US**. I specialize in end-to-end development — from backend APIs to responsive frontends — with a strong focus on performance, security, and maintainability.
+
+- 🔭 Currently working at **SuperVisionIT Solutions** as Full Stack Developer
+- 💼 Open for **freelance projects** and **remote opportunities**
+- 🧠 Experienced in **complex system architecture**, custom APIs, CMS platforms
+- ⚡ Fast delivery, clean code, and client-focused execution
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+### CMS & E-Commerce
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Jatinder's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jatindersandhuinfo&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jatindersandhuinfo&layout=compact&theme=default&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jatindersandhuinfo&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## 💼 Work Experience
+
+**Full Stack Developer** — SuperVisionIT Solutions *(Aug 2020 – Present)*
+- Built dynamic UIs with React.js + Redux for complex business applications
+- Developed scalable REST APIs using Node.js + Express.js
+- Implemented JWT-based authentication and MongoDB schema optimization
+
+**PHP Developer** — Envy Us Media Pvt Ltd *(2019 – 2020)*
+- Built custom CMS with PHP + MySQL with client-specific modules
+- Created web services for third-party integrations
+- Maintained code quality through debugging and unit testing
+
+---
+
+## 🗂️ Featured Projects
+
+| Project | Stack | Link |
+|--------|-------|------|
+| 🚗 Luxorlimo Rental | WordPress, Elementor, WooCommerce | [Live →](https://luxorlimo.ca/) |
+| 💍 Luna By Navneet & Navjot | Next Js, Tailwind CSS | [Live →](https://lunanav.malwaland.in/) |
+
+---
+
+## 🎓 Education
+
+- **Master's in Computer Science** — Guru Kashi University (2015–2018)
+- **Bachelor of Computer Applications** — Guru Kashi University (2011–2014)
+
+---
+
+## 📬 Let's Work Together
+
+If you're looking for a reliable developer to build your next project — I'm available.
+
+| Channel | Link |
+|---------|------|
+| 🌐 Portfolio | [jatinder.malwaland.in](https://jatinder.malwaland.in/) |
+| 📧 Email | [jatindersandhuinfo@gmail.com](mailto:jatindersandhuinfo@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/jatindersandhuinfo](https://www.linkedin.com/in/jatindersandhuinfo/) |
+| 💬 WhatsApp | [+91 98883 60667](https://wa.me/9888360667) |
+| ✈️ Telegram | [@jatindersandhuinfo](https://t.me/jatindersandhuinfo) |
+
+---
+
+<div align="center">
+
+⭐ **If you like my work, consider giving my repos a star!**
+
+*© 2020–2026 Jatinder Sandhu — Full Stack Developer*
+
+</div>
